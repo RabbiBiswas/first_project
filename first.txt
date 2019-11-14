@@ -1,2 +1,3 @@
 Wow! we are learning git..............
 Hey, hello, this is another day, we are also learning today!
+Hi, How are you all!
